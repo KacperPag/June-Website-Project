@@ -1,0 +1,12 @@
+body {
+
+}
+.warningText{
+    color: red;
+}
+a{
+    text-decoration: none;
+}
+#feedbackText{
+    background-color: green;
+}
